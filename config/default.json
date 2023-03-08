@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "kirill epharm",
+    "mongoURI":"mongodb+srv://apriorifox:zm7c15000932@mern-epharm.k4lpi9o.mongodb.net/app?retryWrites=true&w=majority"
+}
