@@ -10,6 +10,7 @@ app.use(express.json({extended: true}))
 
 //эндпоинты
 app.use('/api/auth', require('./routes/auth.routes')) 
+app.use('/api/items', require('./routes/items.routes')) 
 
 
 
